@@ -130,3 +130,12 @@ footer small {
   text-align: left;
   margin-top: 150px auto 0 auto;
 }
+
+#index {
+  background-image: url(../images/bg-index.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
