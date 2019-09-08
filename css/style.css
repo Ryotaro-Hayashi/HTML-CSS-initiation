@@ -85,6 +85,7 @@ footer {
   text-align: center;
   color: #ffffff;
   padding: 20px 0;
+  background-color: #767671
 }
 
 footer small {
@@ -97,6 +98,7 @@ footer small {
   color: #ffffff;
   font-family: "Bitter", serif;
   margin-bottom: 50px;
+  border: none;
 }
 
 #index .content {
@@ -131,7 +133,8 @@ footer small {
 #index footer {
   width: 960px;
   text-align: left;
-  margin-top: 150px auto 0 auto;
+  margin: 150px auto 0 auto;
+  background-color: transparent;
 }
 
 #index {
@@ -213,9 +216,8 @@ table {
   border-collapse: collapse;
 }
 
-footer {
-  text-align: center;
-  color: #ffffff;
-  padding: 20px 0;
-  background-color: #767671
+#index #wrap {
+  background-color: transparent;
+  margin-top: 0;
+  padding: 0;
 }
