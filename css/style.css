@@ -172,5 +172,18 @@ h2{
 .icon:before {
   content: "";
   padding-right: 10px;
-  border-left: 7px solid #9cv4ad;
+  border-left: 7px solid #9cb4ad;
+}
+
+#about .profile-txt {
+  width: 540px;
+  float: left;
+}
+
+#about .profile-txt span {
+  font-weight: bold;
+}
+
+#about .profile-image {
+  float: right;
 }
