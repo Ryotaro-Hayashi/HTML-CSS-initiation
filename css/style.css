@@ -138,3 +138,22 @@ footer small {
   background-attachment: fixed;
   background-size: cover;
 }
+
+#about {
+  background-image: url(../images/bg-about.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+  background-size: 100% auto;
+}
+
+#about #wrap{
+  background-color: #ffffff;
+  margin-top: 220px;
+  padding: 35px 0;
+}
+
+.main-center {
+  width: 940px;
+  margin: 0 auto;
+}
