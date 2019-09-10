@@ -258,3 +258,10 @@ a img:hover {
 .sidebar ul {
   color: #333333;
 }
+
+#photograph {
+  background-image: url(../images/bg-photograph.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+  background-size: 100% auto;
